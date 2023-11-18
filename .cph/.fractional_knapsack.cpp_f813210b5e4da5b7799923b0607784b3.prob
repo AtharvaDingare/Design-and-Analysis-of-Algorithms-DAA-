@@ -1,0 +1,1 @@
+{"name":"Local: fractional_knapsack","url":"b:\\competitive programming\\useless clg stuff\\DAA\\fractional_knapsack.cpp","tests":[{"id":1700260281025,"input":"3\n20\n5 10 15\n4 25 200","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"b:\\competitive programming\\useless clg stuff\\DAA\\fractional_knapsack.cpp","group":"local","local":true}
