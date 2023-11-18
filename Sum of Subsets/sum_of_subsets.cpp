@@ -2,6 +2,7 @@
 using namespace std;
 
 void printcombination(vector<int>&combination) {
+    cout<<"Following are the indexes of the array whose sum generates the required target : "<<endl;
     for(int i=0; i<combination.size(); i++){
         cout<<combination[i]+1<<" ";
     }

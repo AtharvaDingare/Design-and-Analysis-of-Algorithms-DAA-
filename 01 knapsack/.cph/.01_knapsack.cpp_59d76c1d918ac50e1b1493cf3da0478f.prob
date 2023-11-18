@@ -1,0 +1,1 @@
+{"name":"Local: 01_knapsack","url":"b:\\competitive programming\\useless clg stuff\\DAA\\01 knapsack\\01_knapsack.cpp","tests":[{"id":1700320289904,"input":"4\n5\n2 1 3 2\n12 10 20 15","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"b:\\competitive programming\\useless clg stuff\\DAA\\01 knapsack\\01_knapsack.cpp","group":"local","local":true}
